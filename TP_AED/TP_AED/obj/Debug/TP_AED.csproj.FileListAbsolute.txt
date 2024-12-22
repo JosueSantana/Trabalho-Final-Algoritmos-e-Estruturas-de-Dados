@@ -1,0 +1,14 @@
+C:\Users\daani\source\repos\TP_AED\TP_AED\bin\Debug\TP_AED.exe.config
+C:\Users\daani\source\repos\TP_AED\TP_AED\bin\Debug\TP_AED.exe
+C:\Users\daani\source\repos\TP_AED\TP_AED\bin\Debug\TP_AED.pdb
+C:\Users\daani\source\repos\TP_AED\TP_AED\obj\Debug\TP_AED.csproj.AssemblyReference.cache
+C:\Users\daani\source\repos\TP_AED\TP_AED\obj\Debug\TP_AED.csproj.CoreCompileInputs.cache
+C:\Users\daani\source\repos\TP_AED\TP_AED\obj\Debug\TP_AED.exe
+C:\Users\daani\source\repos\TP_AED\TP_AED\obj\Debug\TP_AED.pdb
+C:\Users\Josue\Downloads\TP_AED\TP_AED\bin\Debug\TP_AED.exe.config
+C:\Users\Josue\Downloads\TP_AED\TP_AED\bin\Debug\TP_AED.exe
+C:\Users\Josue\Downloads\TP_AED\TP_AED\bin\Debug\TP_AED.pdb
+C:\Users\Josue\Downloads\TP_AED\TP_AED\obj\Debug\TP_AED.csproj.AssemblyReference.cache
+C:\Users\Josue\Downloads\TP_AED\TP_AED\obj\Debug\TP_AED.csproj.CoreCompileInputs.cache
+C:\Users\Josue\Downloads\TP_AED\TP_AED\obj\Debug\TP_AED.exe
+C:\Users\Josue\Downloads\TP_AED\TP_AED\obj\Debug\TP_AED.pdb
